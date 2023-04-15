@@ -40,3 +40,9 @@ or
 ```sh
  python vio.py --path path/to/your/EuRoC_MAV_dataset/MH_01_easy (no visualization)
 ```
+
+## Results
+
+![Initial Camera Position](https://github.com/ShrishailyaChavan/Visual_Inertial_Odometry/blob/main/photos/InitialPose.jpeg)
+
+![Final Result](https://github.com/ShrishailyaChavan/Visual_Inertial_Odometry/blob/main/photos/FinalOP.jpeg)
